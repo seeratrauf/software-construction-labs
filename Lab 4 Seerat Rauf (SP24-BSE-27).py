@@ -1,6 +1,4 @@
-# CSE325 - Software Construction and Development
-# Lab 04: AI-Enhanced Agile Estimation Techniques
-# Seerat Rauf - SP24-BSE-27
+
 
 # Scenario: the Lab 3 backlog for the Campus Event Management System,
 # estimated by the AI and by the team in a Planning Poker round.
