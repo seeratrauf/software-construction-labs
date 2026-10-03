@@ -1,5 +1,4 @@
 
-
 # Scenario: Campus Event Management System - students browse events,
 # register, and get reminders; admins add and remove events.
 
