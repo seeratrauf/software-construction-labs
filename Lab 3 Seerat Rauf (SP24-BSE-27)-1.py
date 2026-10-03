@@ -1,6 +1,4 @@
-# CSE325 - Software Construction and Development
-# Lab 03: Using AI & LLMs in the Software Planning Phase
-# Seerat Rauf - SP24-BSE-27
+
 
 # Scenario: Campus Event Management System - students browse events,
 # register, and get reminders; admins add and remove events.
