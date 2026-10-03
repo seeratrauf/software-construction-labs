@@ -1,7 +1,4 @@
-# CSE325 - Software Construction and Development
-# Lab 02: Software Construction Principles with AI
-#         (Modularity, Readability, Maintainability)
-# Seerat Rauf - SP24-BSE-27
+
 
 import os
 import tempfile
