@@ -1,6 +1,4 @@
-# CSE325 - Software Construction and Development
-# Lab 01: Setting Up the AI-Augmented Development Environment
-# Seerat Rauf - SP24-BSE-27
+
 
 # Scenario: the same Celsius-to-Fahrenheit converter, built once by hand
 # and once with an AI assistant, then compared.
